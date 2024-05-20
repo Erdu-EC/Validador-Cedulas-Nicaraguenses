@@ -1,4 +1,4 @@
-# Validador-Cedulas-Nicaraguenses
+# Validador de cedulas Nicaraguenses
 Este repositorio contiene un pequeño objeto para validar cédulas nicaragüenses.
 
 ## Uso:
